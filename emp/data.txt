@@ -1,0 +1,2 @@
+superuser name = admin
+pass = 112233
