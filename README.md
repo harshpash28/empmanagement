@@ -1,1 +1,1 @@
-# empmanagement
+This is employee management website in which you can add all employee details. This can be used in any of orgnization on employee section to manage employee data or details. Also it is useful for admin to reached all the details about each and every employee where admin can add, update, view and remove or delete a specific employee data.
